@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit from my pc
+=======
+edit from github wesite
+>>>>>>> 83d6155896b5c33df0ddc7f2c570df02c72712c7
